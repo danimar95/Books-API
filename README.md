@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first API project buit with Ruby on Rails. It includes two models. One for authors and other for Books both including some endpoints to Create, Read, update and Delete data.
 
-Things you may want to cover:
 
-* Ruby version
+To run the project you need to verify your Ruby version, run the migrations and run the project.
 
-* System dependencies
 
-* Configuration
+```
+bin/rails server
+```
 
-* Database creation
 
-* Database initialization
+* Ruby version used : 3.0.0
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
